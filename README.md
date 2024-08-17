@@ -17,4 +17,6 @@
 - 游戏难度和雷区设置可以在游戏开始前进行调整。
 - 游戏过程中，请保持耐心和细心，以享受最佳的游戏体验。
 
+- ![image](https://github.com/user-attachments/assets/c025dec9-2bfa-487b-990f-fc0467903d56)
+
 通过上述步骤，你就可以在Visual Studio中运行这款扫雷小游戏了。希望你会喜欢它！
